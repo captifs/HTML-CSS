@@ -1,1 +1,10 @@
-sadsadsa
+    1. toate elementele p din interiorul div-ului cu clasa 'abc' au culoare de fundal galben
+    2. toatele elementele din p care sunt copiii div-ului cu clasa 'abc' sunt scrise cu bold
+    3. toate elementele p din interiorul div-ului cu clasa 'abc', care sunt plasate fix dupa  un alt p, sunt subliniate
+    4.toate div-urile, frati cu div-ul care are clasa 'abc', au culoare de fundal lightblue
+    5. aplicati o culoare diferita pentru elementele a in starile link, visited, hover, active
+    6. primul copil al divului cu clasa "first-child" are un font de 24px
+    7. randurile pare din table au background color lightblue, randurile impare cornflowerblue;
+        primul rand din tabel(header) are background color darkcyan (sau alte culori la alegere)
+    8.input de tip date are un background-color grey la focus;
+    9. adaugati tooltip pt input-urile de tip text
