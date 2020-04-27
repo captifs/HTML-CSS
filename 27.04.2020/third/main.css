@@ -1,0 +1,19 @@
+body {
+    background-image: url("999.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#outPopUp {
+    position: absolute;
+    width: 400px;
+    height: 700px;
+    z-index: 15;
+    top: 20%;
+    left: 10%;
+    margin: -100px 0 0 -150px;
+    background: yellow;
+    color: #F012BE;
+    text-align: center;
+}
+
+
